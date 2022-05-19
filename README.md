@@ -10,9 +10,7 @@
 
 - ⚡ Fun fact **I'm Younger than you think**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 
