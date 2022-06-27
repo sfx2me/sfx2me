@@ -5,7 +5,6 @@ pip install skids
 <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sfx2me" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sfx2me" alt="Profile Forks"></a>
-<img src="https://discordapp.com/api/guilds/972487056511086602/widget.png?style=shield" alt="shield.png"></a>
 
 ✔️・**Latest open source project [Auto Minecraft server creator](https://github.com/sfx2me/Auto-minecraft-server-creator)**
 
