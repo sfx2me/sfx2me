@@ -1,4 +1,4 @@
-<img src="https://cooltext.com/Render-Image?RenderID=414108564516214&LogoId=4141085645">
+<img src="https://cooltext.com/Edit-Logo?LogoID=4141085645">
 
 ```sh-session
 pip install skids
