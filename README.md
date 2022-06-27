@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/GwwBopA.jpeg">
 
 ```sh-session
-pip install skids
+pip install brain
 ```
 
 <img src="https://komarev.com/ghpvc/?username=sfx2me&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors">
