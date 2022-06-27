@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/iPULmYz.jpeg">
+<img src="https://i.imgur.com/GwwBopA.jpeg">
 
 ```sh-session
 pip install skids
